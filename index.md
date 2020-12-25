@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to sabizupa's blog
 
-I'm glad you are here. I plan to talk about ...
+I'm learning how to make my own github pages.
